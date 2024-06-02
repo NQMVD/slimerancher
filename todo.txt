@@ -1,0 +1,3 @@
+add history view for each plort on arg
+add sort option as 2. arg for prices
+add average and entry count
