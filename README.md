@@ -1,4 +1,5 @@
 # slimerachner finance assistant
+![screenshot](.assets/screenshot.png)
 ![Static Badge](https://img.shields.io/badge/status-stalled-red)
 
 helps keeping track of the plort prices in slimerancher 2.
